@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 
-title: Unsupervised domain adaptation based COVID-19 CT infection segmentation network
-description: A novel domain adaptation based method proposed for the high-performance segmentation of COVID-19 infection in CT scans even without access to the label.  <br />
+title: Pose-guided graph convolutional networks for skeleton-based action recognition
+description: A novel multi-modal framework which dynamically fuses the features of pose and skeleton data for improving the action recognition performance of graph convolutional networks.  <br />
