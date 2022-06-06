@@ -23,7 +23,7 @@ In this paper, we propose a novel multi-model framework with pose-guided GCN (PG
 
 # Action Recognition Classification Confusion Matrix
 <p align="center">
-  <img width="50%" height="auto" src="resources/fig3.png">
+  <img width="60%" height="auto" src="resources/fig3.png">
 </p>
 <p align="center">
   Confusion matrix of (a) our network without using attention and (b) our PG-GCN with dynamic attention on NTU RGB+D 60 dataset in X-Sub benchmark. The X-axis (True class) and Y-axis (Predicted class) are associated through the indices of action classes.
