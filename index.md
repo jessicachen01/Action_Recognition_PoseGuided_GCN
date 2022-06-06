@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="70%" height="auto" src="resources/fig1.png">
+  <img width="90%" height="auto" src="resources/fig1.png">
 </p>
 <p align="center">
   Our proposed PG-GCN model. A pair of skeleton sequence and pose sequence from the same action fragment {Is, Ip } are first pre-processed and then fed into the feature embedding module to obtain the feature representations {Fs, Fp }. Then, the pose-guided attention module (PG-AM) computes the attention summaries that encode the correlations between Fs and Fp . Finally, the skeleton graph representation encoded with pose information will be handed over to the classification module to produce the action classification predictions.
@@ -23,7 +23,7 @@ In this paper, we propose a novel multi-model framework with pose-guided GCN (PG
 
 # Action Recognition Classification Confusion Matrix
 <p align="center">
-  <img width="80%" height="auto" src="resources/fig3.png">
+  <img width="50%" height="auto" src="resources/fig3.png">
 </p>
 <p align="center">
   Confusion matrix of (a) our network without using attention and (b) our PG-GCN with dynamic attention on NTU RGB+D 60 dataset in X-Sub benchmark. The X-axis (True class) and Y-axis (Predicted class) are associated through the indices of action classes.
