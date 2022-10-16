@@ -40,20 +40,3 @@ This work was supported by the Major Project of the Korea Institute of Civil Eng
   journal={arXiv preprint arXiv:2210.06192},
   year={2022}
 }
-
-<!-- # Acknowlegements
-This research work is supported by the Air Force Office of Scientific Research (award number FA2386-19-1-4001). -->
-
-<!-- # Citation
-```
-@article{chen2022unsupervised,
-  title={Unsupervised domain adaptation based COVID-19 CT infection segmentation network},
-  author={Chen, Han and Jiang, Yifan and Loew, Murray and Ko, Hanseok},
-  journal={Applied Intelligence},
-  volume={52},
-  number={6},
-  pages={6340--6353},
-  year={2022},
-  publisher={Springer}
-}
-``` -->
