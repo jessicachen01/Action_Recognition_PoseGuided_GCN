@@ -29,6 +29,17 @@ In this paper, we propose a novel multi-model framework with pose-guided GCN (PG
   Confusion matrix of (a) our network without using attention and (b) our PG-GCN with dynamic attention on NTU RGB+D 60 dataset in X-Sub benchmark. The X-axis (True class) and Y-axis (Predicted class) are associated through the indices of action classes.
 </p>
 
+# Acknowlegements
+This work was supported by the Major Project of the Korea Institute of Civil Engineering and Building Technology (KICT) [grant number number 20210397-001].
+
+# Citation
+```
+@article{chen2022pose,
+  title={Pose-Guided Graph Convolutional Networks for Skeleton-Based Action Recognition},
+  author={Chen, Han and Jiang, Yifan and Ko, Hanseok},
+  journal={arXiv preprint arXiv:2210.06192},
+  year={2022}
+}
 
 <!-- # Acknowlegements
 This research work is supported by the Air Force Office of Scientific Research (award number FA2386-19-1-4001). -->
