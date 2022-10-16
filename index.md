@@ -29,8 +29,14 @@ In this paper, we propose a novel multi-model framework with pose-guided GCN (PG
   Confusion matrix of (a) our network without using attention and (b) our PG-GCN with dynamic attention on NTU RGB+D 60 dataset in X-Sub benchmark. The X-axis (True class) and Y-axis (Predicted class) are associated through the indices of action classes.
 </p>
 
+
+
+
 # Acknowlegements
 This work was supported by the Major Project of the Korea Institute of Civil Engineering and Building Technology (KICT) (grant number number 20210397-001).
+
+
+
 
 # Citation
 ```
