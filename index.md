@@ -30,7 +30,7 @@ In this paper, we propose a novel multi-model framework with pose-guided GCN (PG
 </p>
 
 # Acknowlegements
-This work was supported by the Major Project of the Korea Institute of Civil Engineering and Building Technology (KICT) [grant number number 20210397-001].
+This work was supported by the Major Project of the Korea Institute of Civil Engineering and Building Technology (KICT) (grant number number 20210397-001).
 
 # Citation
 ```
